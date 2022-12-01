@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jabahatka
-- 👀 I’m interested in gamedev
+- 👀 I’m interested to get into programming
 - 🌱 I’m currently learning how it actualy works and trying to dig deep in C++
 
 <!---
